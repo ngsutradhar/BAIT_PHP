@@ -12,7 +12,7 @@ do{
       $sum=$sum+$i;
    }
    $i++;
-}while($i <= 20);
+}while($i <= 100);
 
 echo "The Total is:".$sum;
 ?>  
